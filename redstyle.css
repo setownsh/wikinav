@@ -28,7 +28,7 @@
 }
 
 #sitewide-announcement-banner .hidden-print {
-    background: rgb(241, 250, 255)!important;
+    background: rgb(0,90,149)!important;
     border: 1px solid var(--awsui-blue-600)!important;
     color: var(--awsui-grey-900)!important;
     padding: 14px 20px!important;
