@@ -22,8 +22,8 @@
     --awsui-amazon-orange: rgb(255,153,0); /* Amazon Orange */
     --awsui-amazon-orange-transparent: rgb(255,153,0,0.5); /* Amazon Orange */
 
-    --base-type: var(--awsui-grey-200);
-    --base-header: var(--awsui-grey-100);
+    --base-type: var(--awsui-squid-ink);
+    --base-header: var(--awsui-squid-ink-transparent);
     --base-inverted: var(--awsui-grey-900);
 }
 
