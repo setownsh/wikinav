@@ -1,7 +1,7 @@
 :root {
-    --awsui-grey-100: rgb(0,90,149); /* Oxygen */
-    --awsui-grey-200: rgb(0,90,149); /* Chromium */
-    --awsui-grey-300: rgb(0,90,149); /* Zinc */
+    --awsui-grey-100: rgb(247,247,247); /* Oxygen */
+    --awsui-grey-200: rgb(247,247,247); /* Chromium */
+    --awsui-grey-300: rgb(247,247,247); /* Zinc */
     --awsui-grey-400: rgb(170,183,184); /* Silver */
     --awsui-grey-500: rgb(134,149,150); /* Platinum */
     --awsui-grey-600: rgb(84,91,100);   /* Mercury */
