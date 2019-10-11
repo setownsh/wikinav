@@ -32,8 +32,8 @@
     --awsui-green-500: rgb(106,175,53); /* Fluorine */
     --awsui-green-600: rgb(30,137,0); /* Phosphorous */
 
-    --awsui-squid-ink: #005a95 /* Ad Blue */
-    --awsui-squid-ink-transparent: rgba(35,47,62,.5); /* Squid Ink half opacity */
+    --awsui-squid-ink: rgb(0,90,149) /* Ad Blue */
+    --awsui-squid-ink-transparent: rgba(0,90,149,.5); /* Squid Ink half opacity */
 
     --awsui-amazon-orange: rgb(255,153,0); /* Amazon Orange */
     --awsui-amazon-orange-transparent: rgb(255,153,0,0.5); /* Amazon Orange */
